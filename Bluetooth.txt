@@ -1,0 +1,8 @@
+On entre dans "Bluetooth - Fichier inconnu" 
+Clicker sur "démarrer le challenge "
+Télécharger un fichier qui s'appelle "ch18"
+Ouvrir ce fichier avec wireshark et cliquer sur "WIRELESS",ensuite on entre dans "Equipement bluetooth"pour récupérer le nom et l'adresse MAC du téléphone 
+Enlever le mot "Samsung" et transformer tout les lettres en minuscules en majuscules et
+Enfin on va décrypter ce dernier dans "SHA1 decrypt" et on obtient le mot de passe 
+
+

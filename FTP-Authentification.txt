@@ -1,0 +1,5 @@
+Entrer dans “FTP-Authentification” 
+clicker sur " démarrer le challenge"
+Télécharger un fichier qui s'appelle "ch1" ,après on va l'ouvrir dans wireshark et faire un clic droite sur 
+un protocol FTP , cliquez sur "suivre" et entrer dans flux tcp  et enfin il ne reste plus qu'à récupérer le mot de passe.
+

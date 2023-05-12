@@ -1,0 +1,5 @@
+Tout d'abord ,on entre dans "authentification twitter" 
+Clicker sur "démarrer le challenge "
+Télécharger un fichier qui s'appelle "ch3"et il faut ouvrir ce fichier avec wireshark et cliquer sur protocol "HTTP",on clique sur “suivre” ,
+Entrer dans flux TCP ,ensuite on récupère le code en base64 (une code avec un ou plusieurs égal) après  on va le décoder avec "Base64 decode" et on obtient le mot de passe.
+

@@ -1,0 +1,7 @@
+Clicker sur "démarrer le challenge" 
+Télécharger automatiquement  un fichier qui s'appelle "cha2"
+Ouvrir dans wireshark et faire un clic droit sur un protocol "Telnet" ,cliquer sur "suivre" et entrer dans"flux TCP" et récupérer le mot de passe. 
+
+
+
+
